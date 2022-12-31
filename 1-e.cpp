@@ -1,4 +1,3 @@
-#include <bits/stdc++.h>
 // https://leetcode.com/problems/two-sum/
 
 class Solution
